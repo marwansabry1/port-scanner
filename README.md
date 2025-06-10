@@ -10,5 +10,14 @@ A simple Python-based port scanner for cybersecurity learning. Scans the first 1
 - Python 3.x
 - pyfiglet module
   
+
+
+# 📘 Lessons Learned
+- Got practical with socket programming and how port scanning works at a low level
+- Thought about out how to handle exceptions like timeouts and hostname errors properly (improving the UI).
+- Realised that scanning sequentially is slow — planning to explore threading (parallel execution/pipelining)
+- Applied my Python and GitHub skills to a working cyber security tool. 
+- First step towards building out a full cybersecurity toolset (keep an eye out for more tools and a general tool that includes all the small tools joined together. 
+
 # ⚠️ Disclaimer
 This tool is intended only for educational and authorized testing purposes. Do not use it to scan networks without permission.
